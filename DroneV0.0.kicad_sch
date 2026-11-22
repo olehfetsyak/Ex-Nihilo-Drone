@@ -4639,7 +4639,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 87.63 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -4797,7 +4797,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 87.63 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -5190,7 +5190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Horizontal"
+		(property "Footprint" "DroneHardwareCustomFootprint:Seeed Studio XIAO ESP32-S3 Sense"
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6195,7 +6195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 39.37 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -6598,7 +6598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 46.99 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -6755,7 +6755,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 46.99 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -6992,7 +6992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Horizontal"
+		(property "Footprint" "DroneHardwareCustomFootprint:ESP32-C3 Super Mini"
 			(at 144.78 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -7116,7 +7116,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 46.99 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -7815,7 +7815,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 46.99 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -8137,7 +8137,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 87.63 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -8294,7 +8294,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 87.63 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -9124,10 +9124,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8add285e-2f56-40b0-a3c5-516a86ee2d2c")
+			(uuid "8add285e-2f56-40b0-a3c5-516a86ee2d2d")
 		)
 		(pin "2"
-			(uuid "06e6d47c-296d-4f0e-9c9f-124221129b3d")
+			(uuid "06e6d47c-296d-4f0e-9c9f-124221129b3e")
 		)
 		(instances
 			(project "DroneV0.0"
