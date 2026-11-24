@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DroneHardwareCustomFootprint") (type "KiCad") (uri "/Users/olehfetsyak/Downloads/DroneV0.0/DroneHardwareCustomFootprint.pretty") (options "") (descr ""))
+)

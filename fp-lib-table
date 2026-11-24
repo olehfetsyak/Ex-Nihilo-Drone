@@ -1,8 +1,5 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "DroneHardwareComponents") (type "KiCad") (uri "${KIPRJMOD}/DroneHardwareComponents.pretty") (options "") (descr ""))
-	(lib (name "DroneHardwareComponents") (type "KiCad") (uri "${KIPRJMOD}/DroneHardwareComponents.pretty") (options "") (descr ""))
-	(lib (name "DroneHardwareCustomFootprint") (type "KiCad") (uri "${KIPRJMOD}/DroneHardwareCustomFootprint.pretty") (options "") (descr ""))
-	(lib (name "DroneHardwareCustomFootprint") (type "KiCad") (uri "${KIPRJMOD}/DroneHardwareCustomFootprint.pretty") (options "") (descr ""))
 	(lib (name "DroneHardwareCustomFootprint") (type "KiCad") (uri "${KIPRJMOD}/DroneHardwareCustomFootprint.pretty") (options "") (descr ""))
 )
